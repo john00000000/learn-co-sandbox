@@ -1,0 +1,7 @@
+function 
+say(greeting, firstName) {
+return `${greeting}, ${firstName}!`
+}
+
+say('Goodbye', 'Isabel')
+
